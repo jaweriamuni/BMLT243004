@@ -1,0 +1,13 @@
+README
+Overview
+This simple C++ program prints all even numbers from 0 to 10.
+
+How It Works
+The program uses a for loop to repeat actions.
+The loop starts with i = 0 and increases i by 2 each time.
+It stops once i exceeds 10.
+Each value of i is printed on a new line.
+Code Breakdown
+#include<iostream>: Includes input-output functionality for printing.
+for (int i = 0; i <= 10; i = i + 2): Loops through numbers 0, 2, 4, 6, 8, 10.
+cout << i << "\n";: Outputs the current value of i followed by a newline.
