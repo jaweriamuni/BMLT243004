@@ -1,0 +1,6 @@
+README
+This program demonstrates nested loops in C++.
+
+The outer loop runs 2 times, represented by variable i. It prints the value of i in each iteration.
+Inside the outer loop, there is an inner loop that runs 3 times for every iteration of the outer loop, represented by variable j. It prints the value of j during each iteration.
+In total, the inner loop executes 6 times (2 iterations of the outer loop × 3 iterations of the inner loop). The output displays the progress of both loops.
