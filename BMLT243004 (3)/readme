@@ -1,0 +1,12 @@
+README
+Description
+This program demonstrates the use of conditional statements (if, else if, and else) in C++ to output a message based on the value of the variable time.
+
+How It Works
+The variable time is set to 22.
+The program checks:
+If time is less than 10, it prints "Good morning."
+If time is less than 20 but not less than 10, it prints "Good day."
+If time is 20 or greater, it prints "Good evening."
+Since time is 22, the output will be: Good evening.
+Usage
