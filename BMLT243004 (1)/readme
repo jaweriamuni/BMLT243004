@@ -1,0 +1,11 @@
+README
+About the Code
+This program is a basic C++ script that prints the message "Hello World!" to the screen. It's a classic example used to introduce programming in C++.
+
+Key Points:
+Header File: The #include<iostream> is included to allow input/output operations.
+Namespace: The using namespace std; simplifies code by avoiding the need to prefix std:: to standard library components like cout.
+Main Function: The main() function is where the program starts executing.
+Output: The cout statement displays "Hello World!".
+Return 0: Signals that the program ended successfully.
+This program is ideal for beginners to understand the basic structure of a C++ program.
