@@ -1,0 +1,8 @@
+README
+About This Program
+This program is a basic example of conditional statements in C++. It compares two integer values (x and y) and determines if one is greater than the other.
+
+How It Works
+The program declares two variables, x and y, with values 20 and 18, respectively.
+An if statement checks if x is greater than y.
+If the condition is true, it outputs
